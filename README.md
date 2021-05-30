@@ -4,12 +4,16 @@
 
  Stage 1/5 Arrangement
   - visualise the seathing arrangement by printing it to the console.
+ 
  Stage 2/5 Sold!
   - Calculate the profit from all the sold tickets.
+ 
  Stage 3/5 Tickets
   - Set the ticket price
+ 
  Stage 4/5 Menu, please!
  - Add a menue that allws you to buy tickets and display the current state of the seating arrangement. 
+ 
  Stage 5/5 Errors!
  - Handle some input errors. 
 
